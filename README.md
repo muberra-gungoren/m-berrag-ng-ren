@@ -1,4 +1,4 @@
-# müberragüngören
+# muberra-gungoren
 Merhaba 👋🏻 ben Müberra Güngören       
 •🔭Tutkulu bir makine öğrenimi öğrencisiyim.   
 •💬Bana Python, Pandas, Numpy, Matplotlib, seaborn, Tensorflow, Keras, Scikit-Learn ve java hakkında sorun  
