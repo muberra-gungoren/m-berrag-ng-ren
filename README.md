@@ -1,6 +1,6 @@
 # muberra-gungoren
 Merhaba 👋🏻 ben Müberra Güngören         
-•💬Bana Python, data science, machine learning & java hakkında sorun  
+•💬Bana Python, data science, machine learning hakkında sorun  
 •😄Zamirler: o   
 •📪 Bana nasıl ulaşabilirsiniz: merhaba muberragngrn34@gmail.com 
 
